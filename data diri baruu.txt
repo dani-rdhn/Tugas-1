@@ -1,0 +1,7 @@
+Nama	: dani 
+NIM	: 1202204096 
+kelas	: SI4407
+Hobi	:belajarNama	: dddd 
+NIM		: 22 
+kelas	: 444
+Hobi	:belajar

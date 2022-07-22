@@ -1,0 +1,4 @@
+Nama		: ddd 
+NIM		: 2022 
+kelas		: ddd
+Hobi	:belajar
